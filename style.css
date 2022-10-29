@@ -1,0 +1,37 @@
+body{
+    background-color: rgb(188, 135, 238);
+}
+h1{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-style: normal;
+    font-weight: 300;
+color: black;
+    
+}
+.copy_right_footer {
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    text-align: center;
+}
+
+img{
+    box-shadow: 0 6px 8px 0 rgba(2, 2, 2, 0.2);
+    width: 600px;
+}
+
+img:hover{
+    border-radius: 140px;
+}
+h4{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+#camera{
+    width: 500px;
+    height: 400px;
+    border-color: blue;
+}
+
+.column{
+    padding: 20px;
+}
